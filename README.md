@@ -1,0 +1,2 @@
+# ShopAI-Cloud-Native-AI-Powered-Commerce-Platform
+Tech stack Include : Angular,ASP.NET Core / C# , Microservices, EF Core + PostgreSQL / SQL Server, RabbitMQ + MassTransit, Redis , Docker + .Net Aspire, Kubernetes, OpenTelemetry + Jaegar,Elasticsearch,OAuth/OIDC/JWT ,Azure + Azure Devops CI/CD, AI/RAG + embedding + Semantic search + tool calling ,outbox , idempotency , resilience, concurrency, 
